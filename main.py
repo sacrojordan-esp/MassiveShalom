@@ -15,8 +15,8 @@ session.headers.update({
 })
 
 # Cookies - se actualizan desde cookies.txt
-session.cookies.set("shalomempresas_session", "COOKIE_SESSION", domain="cliente.shalom.pe")
-session.cookies.set("XSRF-TOKEN", "COOKIE_XSRF", domain="cliente.shalom.pe")
+session.cookies.set("shalomempresas_session", "eyJpdiI6Inh4SmIwd2psMlRhRk1NTE1kZXR1Wnc9PSIsInZhbHVlIjoidVpcL1ZpcVA1Mm1HMDJWOGF3XC9rSjJ2WGVoelpwckZRcytkVnBoRFRwalY2bUFzOExCQXFlODdTemdPeUhtaHpuIiwibWFjIjoiZmRiMjAwYzU5M2VhZjk3OGQ4MTE2MDJhZDkwMTNkN2QxNDdlNWEzN2FiZjMwMDFiM2U3MDRlNWZhMDVlYWNmMyJ9", domain="cliente.shalom.pe")
+session.cookies.set("XSRF-TOKEN", "eyJpdiI6Inh2TjM3VWtvUlVQQnE3eThxdGhzS0E9PSIsInZhbHVlIjoiRnlQdWxcL2hlVHFqSjJyVkg2NngyeDh2TWhxNWhFb0RTcERJZUlaWHRRbUFwTVlEWkNhUWtUeml1M05rK0t2OWIiLCJtYWMiOiIzNzEyOThhY2Q1ZWVlNGZmMWM0NDdiOGZhZTc1NDEyODVlMDllNDI5NTA0ZTRlZTFhZDc5NmU2MDc2ZmIxMDU0In0%3D", domain="cliente.shalom.pe")
 
 # Login page para CSRF
 login_page = session.get("https://cliente.shalom.pe/")

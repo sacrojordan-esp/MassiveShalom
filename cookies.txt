@@ -15,7 +15,7 @@
 },
 {
     "domain": ".shalom.pe",
-    "expirationDate": 1807382603.811321,
+    "expirationDate": 1807390845.345952,
     "hostOnly": false,
     "httpOnly": false,
     "name": "_ga",
@@ -29,7 +29,7 @@
 },
 {
     "domain": ".shalom.pe",
-    "expirationDate": 1807382603.750701,
+    "expirationDate": 1807390840.613653,
     "hostOnly": false,
     "httpOnly": false,
     "name": "_ga_22M8FNG1BH",
@@ -38,12 +38,12 @@
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "GS2.1.s1772820424$o49$g1$t1772822603$j59$l0$h0",
+    "value": "GS2.1.s1772830840$o50$g0$t1772830840$j60$l0$h0",
     "id": 3
 },
 {
     "domain": ".shalom.pe",
-    "expirationDate": 1807382603.822309,
+    "expirationDate": 1807390845.835242,
     "hostOnly": false,
     "httpOnly": false,
     "name": "_ga_7Q7DD5MG9N",
@@ -52,7 +52,7 @@
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "GS2.1.s1772815998$o88$g1$t1772822603$j58$l0$h0",
+    "value": "GS2.1.s1772830834$o89$g1$t1772830845$j49$l0$h0",
     "id": 4
 },
 {
@@ -113,7 +113,7 @@
 },
 {
     "domain": ".shalom.pe",
-    "expirationDate": 1772822662,
+    "expirationDate": 1772830899,
     "hostOnly": false,
     "httpOnly": false,
     "name": "_gat_gtag_UA_63542135_9",
@@ -127,7 +127,7 @@
 },
 {
     "domain": ".shalom.pe",
-    "expirationDate": 1772909002,
+    "expirationDate": 1772917239,
     "hostOnly": false,
     "httpOnly": false,
     "name": "_gid",
@@ -141,7 +141,7 @@
 },
 {
     "domain": "cliente.shalom.pe",
-    "expirationDate": 1772829805.80648,
+    "expirationDate": 1772838048.2933,
     "hostOnly": true,
     "httpOnly": true,
     "name": "shalomempresas_session",
@@ -150,12 +150,12 @@
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "eyJpdiI6ImdhSTdIc2c5cFEwTVhcL2ZhNTZWS2tBPT0iLCJ2YWx1ZSI6IlQ4V3NONzhkSVhcL2s3anA4U1M0R0ZDdnIyRXBsOVdzc25hZjhPSFhrM3BySkNjTzhHVGRyd3pNWFwvMk91UmNBYiIsIm1hYyI6ImMxZjAwMmNiZmFhM2YzYzRmOTI0MmJkN2E0ZmJlNDkxMWFiMmRiNTA3YzM4ZjYzN2E1MWFkODM5NDI5NDExZGIifQ%3D%3D",
+    "value": "eyJpdiI6Inh4SmIwd2psMlRhRk1NTE1kZXR1Wnc9PSIsInZhbHVlIjoidVpcL1ZpcVA1Mm1HMDJWOGF3XC9rSjJ2WGVoelpwckZRcytkVnBoRFRwalY2bUFzOExCQXFlODdTemdPeUhtaHpuIiwibWFjIjoiZmRiMjAwYzU5M2VhZjk3OGQ4MTE2MDJhZDkwMTNkN2QxNDdlNWEzN2FiZjMwMDFiM2U3MDRlNWZhMDVlYWNmMyJ9",
     "id": 11
 },
 {
     "domain": "cliente.shalom.pe",
-    "expirationDate": 1772829805.806211,
+    "expirationDate": 1772838048.292984,
     "hostOnly": true,
     "httpOnly": false,
     "name": "XSRF-TOKEN",
@@ -164,7 +164,7 @@
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "eyJpdiI6ImZKbjlxNnFnVW9VRDNkM1BLRHo4T0E9PSIsInZhbHVlIjoiQjVyVlBPbUFhWmdXS29ZYnhwUlJWbE02bm82TWEzTmNGdTFUOWV2ekVYXC9vd0pCVDV1N0RKOHQxYW5qbUg0UmciLCJtYWMiOiJmODVmN2U5ODQ3YjJhMGM0MzU1ZjY1ODI0NzUyZWUxNWFmYmFkOGVhMzIyYjAwMTMyZGFlOGQzOGEwZjIzNDY3In0%3D",
+    "value": "eyJpdiI6Inh2TjM3VWtvUlVQQnE3eThxdGhzS0E9PSIsInZhbHVlIjoiRnlQdWxcL2hlVHFqSjJyVkg2NngyeDh2TWhxNWhFb0RTcERJZUlaWHRRbUFwTVlEWkNhUWtUeml1M05rK0t2OWIiLCJtYWMiOiIzNzEyOThhY2Q1ZWVlNGZmMWM0NDdiOGZhZTc1NDEyODVlMDllNDI5NTA0ZTRlZTFhZDc5NmU2MDc2ZmIxMDU0In0%3D",
     "id": 12
 }
 ]
